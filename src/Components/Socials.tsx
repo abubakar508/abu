@@ -24,7 +24,7 @@ const Socials = () => {
         },
         {
             icon: <RiMailFill />,
-            link: 'www.mail.com'
+            link: 'https://mail.google.com/abubakarismail508@gmail.com'
         },
         
         
