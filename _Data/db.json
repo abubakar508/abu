@@ -1,0 +1,181 @@
+{
+    "bookLaunch": [
+        {
+            "id": 1,
+            "date": {
+                "day": "15",
+                "month" : "July",
+                "year" : "2020"
+            },
+            "theme" : {
+                "title" : "Exploring the boundaries of creative writing",
+                "subTitle" : "What creative writing has to offer"
+            },
+            "venue" : {
+                "city" : "Nairobi",
+                "place" : "KICC - Convention Center",
+                "room" : "KICC Roof Top"
+            }
+        },
+        {
+            "id": 2,
+            "date": {
+                "day": "17",
+                "month" : "August",
+                "year" : "2020"
+            },
+            "theme" : {
+                "title" : "Fixing the monotony of Writing",
+                "subTitle" : "What creative writing has to offer"
+            },
+            "venue" : {
+                "city" : "Nairobi",
+                "place" : "Hilton Hotel",
+                "room" : "Roof Top"
+            }
+        },
+        {
+            "id": 3,
+            "date": {
+                "day": "22",
+                "month" : "August",
+                "year" : "2020"
+            },
+            "theme" : {
+                "title" : "Is a writer somebody who just holds a pen?",
+                "subTitle" : "Debunking myths and misconcenptions portrayed over writers"
+            },
+            "venue" : {
+                "city" : "Eldoret",
+                "place" : "Cicada Hotel",
+                "room" : "Covention Hall"
+            }
+        },
+        {
+            "id": 4,
+            "date": {
+                "day": "30",
+                "month" : "September",
+                "year" : "2021"
+            },
+            "theme" : {
+                "title" : "The pen & the virus!",
+                "subTitle" : "Who wins?"
+            },
+            "venue" : {
+                "city" : "Eldoret",
+                "place" : "Cicada hotel",
+                "room" : "Private Hall",
+                "price" : "KES 200"
+            }
+        },
+        {
+            "id": 5,
+            "date": {
+                "day": "1",
+                "month" : "January",
+                "year" : "2022"
+            },
+            "theme" : {
+                "title" : "Who is a reader?",
+                "subTitle" : "Who is a reader and how does writing affects a readers mentality?"
+            },
+            "venue" : {
+                "city" : "Nairobi",
+                "place" : "Deloitte, Westlands",
+                "room" : "Roof Top",
+                "price" : "KES 500"
+            }
+        },
+        {
+            "id": 6,
+            "date": {
+                "day": "2",
+                "month" : "June",
+                "year" : "2022"
+            },
+            "theme" : {
+                "title" : "The wield of pen!",
+                "subTitle" : "What the pen can do and its effects to humanity"
+            },
+            "venue" : {
+                "city" : "Mombasa",
+                "place" : "Shimo la Tewa High School",
+                "room" : "Multi-Purpose Hall",
+                "price" : "KES 750"
+            }
+        },
+        {
+            "id": 7,
+            "date": {
+                "day": "3",
+                "month" : "January",
+                "year" : "2023"
+            },
+            "theme" : {
+                "title" : "Focusing on the goals of a writer",
+                "subTitle" : "Demistifying the purpose of being a writer"
+            },
+            "venue" : {
+                "city" : "Nairobi",
+                "place" : "Villarosa Kempinski",
+                "room" : "Roof Top",
+                "price" : "KES 1000"
+            }
+        },
+        {
+            "id": 8,
+            "date": {
+                "day": "4",
+                "month" : "March",
+                "year" : "2023"
+            },
+            "theme" : {
+                "title" : "What does a writer feel about other writers",
+                "subTitle" : "Collaborative alk with decorated writers in Kenya"
+            },
+            "venue" : {
+                "city" : "Nairobi",
+                "place" : "KICC - Convention Center",
+                "room" : "KICC Roof Top",
+                "price" :"FREE!"
+            }
+        },
+        {
+            "id": 9,
+            "date": {
+                "day": "6",
+                "month" : "July",
+                "year" : "2023"
+            },
+            "theme" : {
+                "title" : "Picking up the broken pieces in writing",
+                "subTitle" : "What are the broken pieces of writing"
+            },
+            "venue" : {
+                "city" : "Kakamega",
+                "place" : "Mumias mulitpurpose hall",
+                "room" : "Multi Purpose Hall",
+                "price" : "KES 1200"
+            }
+        },
+        {
+            "id": 10,
+            "date": {
+                "day": "15",
+                "month" : "July",
+                "year" : "2023"
+            },
+            "theme" : {
+                "title" : "Anniversary of writers road tour",
+                "subTitle" : "Reminiscing on the bitter beginnings"
+            },
+            "venue" : {
+                "city" : "Nairobi",
+                "place" : "KICC - Convention Center",
+                "room" : "KICC Roof Top",
+                "price" : "KES 1500"
+            }
+        }
+    ]
+}
