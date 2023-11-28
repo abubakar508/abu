@@ -1,4 +1,5 @@
 {
+  "homepage": "git remote add origin https://github.com/abubakar508/abu.git",
   "name": "abisma-portfolio-web",
   "version": "0.1.0",
   "private": true,
@@ -6,7 +7,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build"
   },
   "dependencies": {
     "@headlessui/react": "^1.7.17",
@@ -32,6 +35,7 @@
     "@types/react-dom": "^18",
     "@types/react-scroll": "^1.8.10",
     "autoprefixer": "^10",
+    "gh-pages": "^6.1.0",
     "postcss": "^8",
     "tailwindcss": "^3",
     "typescript": "^5"
